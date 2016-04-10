@@ -33,6 +33,7 @@
     "image"
   ],
   "dependencies": {
+    "bluebird": "^3.3.4",
     "pify": "^2.3.0"
   },
   "devDependencies": {
